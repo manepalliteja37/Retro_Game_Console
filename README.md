@@ -79,7 +79,13 @@ Inspired by old handheld brick game consoles 🕹️ — now rebuilt with modern
    - Board: `Arduino Nano`
    - Processor: `ATmega328P` (or `Old Bootloader` if upload fails)
    - Click **Upload**
+---
+## 🎥 Demo
 
+- ▶ YouTube: (https://youtube.com/shorts/RQtRr-8H698?feature=share)
+- 🐦 X (Twitter): (https://x.com/TejaMane37/status/2045184076940992572?s=20)
+
+---
 ## Images
 ---
 
