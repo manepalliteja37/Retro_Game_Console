@@ -15,28 +15,35 @@
 - 🛠️ Fully documented wiring & perfboard layout
 
 ## Doc Structure
-arduino-snake-nokia5110/
-├── README.md
-├── LICENSE
-├── .gitignore
-├── firmware/
-│   ├── v1_basic/
-│   │   └── v1_basic.ino
-│   ├── v2_lighter/
-│   │   └── v2_lighter.ino
-│   ├── v3_full/
-│   │   └── v3_full.ino
-│   └── startup_animation/
-│       └── startup_animation.ino
-├── hardware/
-│   ├── schematic.png
-│   
-|__ Images
-|
-└── docs/
-    └── Hardware
-    |__ Learning
-    |__ Code_Readme
+
+\---Retro_Snake_game
+    |   readme.md
+    |   
+    +---Docs
+    |       Code_Doc.pdf
+    |       Hardware Architecture.pdf
+    |       Project_Learning.pdf
+    |       
+    +---Firmware
+    |   +---snakegame-simplerversion
+    |   |       snakegame-simplerversion.ino
+    |   |       
+    |   +---snakegamelighterversion
+    |   |       snakegamelighterversion.ino
+    |   |       
+    |   +---snakegmaev1
+    |   |       snakegmaev1.ino
+    |   |       
+    |   +---snake_game_full_version
+    |   |       snake_game_full_version.ino
+    |   |       
+    |   \---startup-animation
+    |           startup-animation.ino
+    |           
+    \---Images
+            retro-snake.jpg
+            wiring-nokia.png
+            
 
 ## 🔌 Hardware Requirements
 | Component | Quantity | Notes |
