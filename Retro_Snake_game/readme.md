@@ -15,7 +15,7 @@
 - 🛠️ Fully documented wiring & perfboard layout
 
 ## Doc Structure
-
+<pre>
 \---Retro_Snake_game
     |   readme.md
     |   
@@ -43,7 +43,7 @@
     \---Images
             retro-snake.jpg
             wiring-nokia.png
-            
+ </pre>           
 
 ## 🔌 Hardware Requirements
 | Component | Quantity | Notes |
