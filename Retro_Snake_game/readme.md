@@ -102,7 +102,8 @@ arduino-snake-nokia5110/
 - LCD contrast: Add a 10kΩ potentiometer to `V0` pin if text is too faint
 
 ## Images
-Retro_Snake_game/Images/wiring-nokia.png
+![wiring](Images/wiring-nokia.png)
+
 ## 🤝 Contributing
 Found a bug or want to add features? Fork the repo, create a branch, and submit a PR. Please follow the existing code style and document any hardware changes.
 
@@ -113,3 +114,16 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Nokia 5110 (PCD8544) datasheet
 - Arduino community & Adafruit library maintainers
 - Retro gaming inspiration & open-source hardware builders
+
+---
+
+## 👨‍💻 Author
+
+Built with ❤️ by **Telugu Mad Thinker**
+
+---
+
+## ⭐ Support
+
+If you like this project, give it a ⭐ on GitHub!
+
