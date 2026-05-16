@@ -3,7 +3,7 @@
 [![Arduino](https://img.shields.io/badge/Arduino-Nano-00979D?logo=arduino)](https://www.arduino.cc/)
 [![C++](https://img.shields.io/badge/C%2B%2B-17-00599C?logo=cplusplus)](https://isocpp.org/)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-A collection of classic retro games built for Arduino using a 0.96" SSD1306 OLED display.
+A collection of classic retro games built for Arduino Nano using a Retro Nokia 5110 display.
 
 Inspired by old handheld brick game consoles 🕹️ — now rebuilt with modern embedded systems.
 
