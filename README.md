@@ -23,9 +23,9 @@ Inspired by old handheld brick game consoles 🕹️ — now rebuilt with modern
 
 ## 🕹️ Games Included
 
-- 🏓 Pong
-- 🧱 Brick Breaker *(coming soon)*
 - 🐍 Snake *(coming soon)*
+- 🧱 Brick Breaker *(coming soon)*
+- 🏓 Pong *(coming soon)*
 - 🚗 Racing *(planned)*
 - 👾 Space Shooter *(planned)*
 
