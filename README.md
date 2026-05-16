@@ -16,8 +16,8 @@ Inspired by old handheld brick game consoles 🕹️ — now rebuilt with modern
 - 🎨 Custom UI for Nokia 5110
 - 🔊 Sound effects using buzzer
 - 🎯 Difficulty levels
-- ⏸ Pause & resume system
-- 💤 Power-efficient design (sleep mode ready)
+- ⏸ Pause & resume system (future)
+- 💤 Power-efficient design (sleep mode ready) (future)
 
 ---
 
