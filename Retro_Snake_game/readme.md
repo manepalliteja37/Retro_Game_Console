@@ -102,7 +102,7 @@ arduino-snake-nokia5110/
 - LCD contrast: Add a 10kΩ potentiometer to `V0` pin if text is too faint
 
 ## Images
-
+Retro_Snake_game/Images/wiring-nokia.png
 ## 🤝 Contributing
 Found a bug or want to add features? Fork the repo, create a branch, and submit a PR. Please follow the existing code style and document any hardware changes.
 
